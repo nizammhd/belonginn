@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f6f0e8"/>
+  <path d="M840 0h360v630H840z" fill="#31594b"/>
+  <path d="M884 462V181h219v281zm35-35h149V216H919z" fill="#f6f0e8" opacity=".94"/>
+  <path d="M932 254h37v54h-37zm68 0h37v54h-37zm-68 91h37v54h-37zm68 0h37v54h-37z" fill="#b4764f"/>
+  <path d="M1080 462V181l76 37v244z" fill="#d9e2d8"/>
+  <text x="88" y="210" fill="#31594b" font-family="Georgia,serif" font-size="30" font-weight="700">KERALA PG</text>
+  <path d="M88 247h78" stroke="#b4764f" stroke-width="5"/>
+  <text x="88" y="340" fill="#17231f" font-family="Georgia,serif" font-size="68" font-weight="700">Managed PG homes</text>
+  <text x="88" y="420" fill="#17231f" font-family="Georgia,serif" font-size="68" font-weight="700">across Kerala</text>
+  <text x="90" y="493" fill="#5d6965" font-family="Arial,sans-serif" font-size="28">Kochi · Thiruvananthapuram · Kozhikode · Thrissur</text>
+</svg>

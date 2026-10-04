@@ -1,0 +1,25 @@
+# Kerala PG
+
+Kerala PG manages PG homes in Kerala. The office location is Ernakulam, Kerala.
+
+## Public pages
+
+- Home: /
+- PG rooms and locations: /properties/
+- Contact and visit enquiries: /contact/
+
+## Locations
+
+- Kakkanad, Kochi
+- Kazhakkoottam, Thiruvananthapuram
+- West Hill, Kozhikode
+- Punkunnam, Thrissur
+
+## Contact
+
+- Phone: +91 98765 43210
+- WhatsApp: +91 98765 43210
+- Email: stay@sainivaspg.in
+- Hours: 9:00 AM to 9:00 PM, all days
+
+Room prices, vacancy, sharing types, and amenities are shown on the property listings and may change. Contact Kerala PG to confirm current details.

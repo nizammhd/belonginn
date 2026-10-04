@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contact | Kerala PG</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-head">
+  <div class="head-in">
+    <div class="logo" id="logo"></div>
+    <div class="wordmark" id="wordmark"></div>
+    <button class="burger" id="burger" aria-label="Menu">Menu</button>
+    <nav class="site-nav" id="nav">
+      <a href="index.html">Home</a>
+      <a href="pgs.html">Our PGs</a>
+      <a href="index.static.html#about">About</a>
+      <a href="contact.html">Contact</a>
+      <a href="#" class="nav-cta js-wa">Book a visit</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <div class="wrap hero-in" style="padding:72px 0 64px">
+      <h1 style="font-size:clamp(32px,5vw,50px)">Talk to us</h1>
+      <p>Fill this in and it opens WhatsApp with your details already typed. Or just call.</p>
+    </div>
+  </section>
+
+  <section class="pad wrap" style="padding-top:44px">
+    <div class="contact-grid">
+      <div>
+        <div class="info reveal" id="info"></div>
+        <p style="margin-top:22px;color:var(--ink-2);font-size:15px">
+          Visits are welcome without an appointment, but a quick message helps us keep the room free for you.
+        </p>
+      </div>
+
+      <div class="form reveal">
+        <h3 style="font-size:20px;margin-bottom:6px">Enquire about a room</h3>
+        <p style="font-size:14px;color:var(--ink-2)">Takes ten seconds.</p>
+
+        <label for="name">Your name</label>
+        <input id="name" type="text" placeholder="Akansha">
+
+        <label for="pick">Which property</label>
+        <select id="pick"></select>
+
+        <label for="date">Planning to move in</label>
+        <input id="date" type="date">
+
+        <label for="note">Anything else</label>
+        <textarea id="note" placeholder="Looking for 2 sharing with AC, budget around ₹9,000."></textarea>
+
+        <button class="btn btn-wa" id="send">Send on WhatsApp</button>
+        <small>No form submission. This opens your WhatsApp with the message ready.</small>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-foot"><div class="wrap foot-in" id="foot"></div></footer>
+<a class="float" id="float" href="#" aria-label="WhatsApp"></a>
+
+<script src="js/data.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
