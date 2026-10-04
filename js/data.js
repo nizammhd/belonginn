@@ -10,7 +10,7 @@ const COMPANY = {
   tagline: "Rooms in Kerala that feel like home",
   intro: "Managed PG homes across Kerala with clean rooms, regular meals, and direct support for everyday living.",
   about: "Kerala PG manages well-kept homes across Kerala with a practical, no-fuss approach. Our team handles room upkeep, daily meals, utilities, and maintenance so residents can settle in without the usual hassle.",
-  phone: "+91 98765 43210",
+  phone: "+91 89378 51156",
   whatsapp: "918937851156",
   email: "stay@sainivaspg.in",
   office: "Ernakulam, Kerala",
