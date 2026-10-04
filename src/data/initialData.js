@@ -10,7 +10,7 @@ export const COMPANY = {
   intro: "Managed PG homes in Kerala, with clean rooms, regular meals, and local support.",
   about: "Kerala PG manages homes across Kerala. Our local team supports residents with upkeep, meals, utilities, and maintenance.",
   phone: "+91 98765 43210",
-  whatsapp: "919876543210",
+  whatsapp: "91 8937851156",
   email: "stay@sainivaspg.in",
   office: "Ernakulam, Kerala",
   hours: "9:00 AM to 9:00 PM, all days",
